@@ -228,3 +228,5 @@ These are safe to delete; they'll be regenerated on demand.
 - Please respect [Scryfall's API guidelines](https://scryfall.com/docs/api) — the tool caches aggressively and throttles requests to that end.
 
 **License:** released for public use — add the license of your choice (MIT recommended) as a `LICENSE` file.
+
+Built by Dazey
